@@ -1,0 +1,27 @@
+{
+  "name": "rerevalidator",
+  "description": "Provides handy wrapper around revalidator and simple client serve method",
+  "version": "0.0.1",
+  "dependencies": {
+    "revalidator": "0.1.x",
+    "uglify-js": "2.4.x"
+  },
+  "author": {
+    "name": "Yurij Mikhalevich",
+    "email": "0@39.yt"
+  },
+  "keywords": [
+      "revalidator",
+      "validator",
+      "form validation",
+      "object validation",
+      "client validation",
+      "server validation"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cat-corporation/rerevalidator"
+  },
+  "main": "index",
+  "readmeFilename": "README.md"
+}
