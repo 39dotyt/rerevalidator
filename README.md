@@ -92,6 +92,8 @@ serve rerevalidator and schemes to client by calling:
 require('rerevalidator').serve(pathToSchemesScript, server);
 ```
 
+After, it may be accessed via '/rerevalidator/minified.js' url.
+
 You should manually implement check, where you schemes script is executed (in
 browser or by node), you may do this by calling typeof(window) – look in
 revalidator or rerevalidator sources for example.
