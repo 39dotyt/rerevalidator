@@ -1,10 +1,10 @@
 {
   "name": "rerevalidator",
   "description": "Handy wrapper around revalidator (https://github.com/flatiron/revalidator) and simple server method",
-  "version": "0.9.2",
+  "version": "1.0.0",
   "dependencies": {
     "revalidator": "0.1.x",
-    "uglify-js": "2.4.x"
+    "script-server": "~1.0.0"
   },
   "author": {
     "name": "Yurij Mikhalevich",
