@@ -4,7 +4,6 @@
  */
 
 var path = require('path'),
-    send = require('send'),
     uglifyjs = require('uglify-js');
 
 
