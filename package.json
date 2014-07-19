@@ -1,7 +1,8 @@
 {
   "name": "rerevalidator",
   "description": "Handy wrapper around revalidator (https://github.com/flatiron/revalidator) and simple server method",
-  "version": "1.0.2",
+  "license": "GPL-3.0",
+  "version": "1.0.3",
   "dependencies": {
     "revalidator": "0.1.x",
     "script-server": "~1.0.0"
