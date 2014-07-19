@@ -2,7 +2,6 @@
  * @license GPLv3
  * @author 0@39.yt (Yurij Mikhalevich)
  */
-
 var path = require('path');
 var scriptServer = require('script-server');
 
