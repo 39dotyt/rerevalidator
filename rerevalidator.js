@@ -1,5 +1,5 @@
 /**
- * @license GPL-3.0
+ * @license Apache-2.0
  * @author 0@39.yt (Yurij Mikhalevich)
  */
 var Validator = {};
